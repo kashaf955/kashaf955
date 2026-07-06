@@ -135,6 +135,17 @@
 
 ---
 
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashaf955&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kashaf955&theme=tokyonight"/>
+
+</p>
+---
+
 # 🌱 Currently Learning
 
 - Advanced JavaScript

@@ -61,33 +61,119 @@
 
 ### Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
 
 </p>
 
 ### Frontend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite"/>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://getbootstrap.com/">
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://vitejs.dev/">
+<img src="https://skillicons.dev/icons?i=vite" />
+</a>
 
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://firebase.google.com/">
+<img src="https://skillicons.dev/icons?i=firebase" />
+</a>
 
 </p>
 
 ### Tools
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma"/>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.npmjs.com/">
+<img src="https://skillicons.dev/icons?i=npm" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
 
 </p>
 

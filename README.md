@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kashaf Tariq</h1>
-<h3 align="center">Software Engineer | MERN Stack Developer</h3>
 
 <p align="center">
   <a href="https://portfolio-delta-woad-42.vercel.app/">

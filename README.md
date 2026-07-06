@@ -149,7 +149,6 @@
 
 # 🤝 Community
 
-- 🌟 Active Open Source Learner
 - 💻 Contributor on GitHub
 - 🤝 Collaborating with Developers
 - 🚀 Building MERN Stack Projects

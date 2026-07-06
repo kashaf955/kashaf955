@@ -2,53 +2,37 @@
 
 <p align="center">
   <a href="https://portfolio-delta-woad-42.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Software+Engineer;MERN+Stack+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
+## 👨🏻‍💻 About Me
 
-<p>
-
-💻 Software Engineer passionate about building scalable and user-friendly web applications.
-
-🚀 MERN Stack Developer specializing in modern, responsive, and high-performance web solutions.
-
-🌐 1+ year of professional experience in Software Engineering.
-
-📚 Currently expanding my expertise in Advanced JavaScript, React.js, Backend Development, and System Design.
-
-🤝 Passionate about open source, collaboration, and continuous learning.
-
-⚡ I enjoy turning ideas into real-world products through clean, maintainable code.
-
-</p>
+- 💻 Software Engineer passionate about building scalable web applications.
+- 🚀 MERN Stack Developer focused on modern, responsive web applications.
+- 🌐 1+ year of professional experience in Software Engineering.
+- 📚 Currently learning Advanced JavaScript, React and Backend Development.
+- 🤝 Love collaborating on open-source and community projects.
+- ⚡ Always exploring new technologies and best development practices.
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/kashaf955">
+<a href="https://github.com/kashaf955" target="blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="https://www.linkedin.com/in/kashaf-tariq-948163258/">
+<a href="https://www.linkedin.com/in/kashaf-tariq-948163258/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="https://portfolio-delta-woad-42.vercel.app/">
+<a href="https://portfolio-delta-woad-42.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
 </a>
-
-&nbsp;
 
 <a href="mailto:kashaftariq496@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -58,82 +42,58 @@
 
 ---
 
-<h2 align="center">💼 Experience</h2>
+# 💼 Experience
 
 ### 💻 Software Engineer | DOSTSOL Global
 
-- Developed and maintained Full Stack MERN applications.
-- Built scalable REST APIs using Node.js and Express.js.
-- Created responsive and modern user interfaces with React.js.
-- Worked with MongoDB and Firebase for database management and authentication.
-- Developed and customized professional WordPress websites.
-- Integrated third-party APIs and authentication services.
-- Collaborated using Git & GitHub in team environments.
-- Wrote clean, reusable, and maintainable code following best practices.
+- Building Full Stack MERN applications.
+- Developing RESTful APIs using Node.js & Express.js.
+- Creating responsive user interfaces with React.js.
+- Working with MongoDB and Firebase.
+- Building professional WordPress websites.
+- Version control using Git & GitHub.
+- API Integration and Authentication.
+- Writing clean, maintainable and scalable code.
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+# 🚀 Tech Stack
 
-<h3 align="center">Languages</h3>
+### Languages
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=html"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 </p>
 
-<h3 align="center">Frontend</h3>
+### Frontend
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=react"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vite"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite"/>
 
 </p>
 
-<h3 align="center">Backend</h3>
+### Backend
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 
 </p>
 
-<h3 align="center">Tools</h3>
+### Tools
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma"/>
 
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -145,7 +105,7 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -155,7 +115,7 @@
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -165,7 +125,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -175,82 +135,53 @@
 
 ---
 
-<h2 align="center">🌱 Currently Learning</h2>
+# 🌱 Currently Learning
 
-<p align="center">
-
-Advanced JavaScript &nbsp;&nbsp;•&nbsp;&nbsp;
-React.js &nbsp;&nbsp;•&nbsp;&nbsp;
-Node.js &nbsp;&nbsp;•&nbsp;&nbsp;
-Express.js &nbsp;&nbsp;•&nbsp;&nbsp;
-MongoDB &nbsp;&nbsp;•&nbsp;&nbsp;
-Data Structures & Algorithms &nbsp;&nbsp;•&nbsp;&nbsp;
-System Design
-
-</p>
+- Advanced JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Data Structures & Algorithms
+- System Design
 
 ---
 
-<h2 align="center">🤝 Community</h2>
+# 🤝 Community
 
-<p>
-
-🌟 Active Open Source Learner
-
-💻 Contributor on GitHub
-
-🤝 Collaborating with developers on MERN Stack projects
-
-🚀 Passionate about building impactful software solutions
-
-📚 Continuously learning, sharing knowledge, and growing with the developer community
-
-</p>
+- 🌟 Active Open Source Learner
+- 💻 Contributor on GitHub
+- 🤝 Collaborating with Developers
+- 🚀 Building MERN Stack Projects
+- 📚 Sharing knowledge and helping the developer community
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+# 🚀 Featured Projects
 
 ### 🏡 HomeVista
-A full-stack MERN real estate platform featuring authentication, property management, and a responsive user experience.
+A full-stack MERN real estate platform with authentication and property management.
 
-### 🍔 UET Panda
-A full-stack food ordering platform built using the MERN Stack with secure authentication and real-time order management.
+### 🤖 UET Panda
+A full-Stack Food Ordering System.
 
-### 🩺 AI Life Care
-An AI-powered healthcare platform providing smart digital healthcare solutions and services.
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+# 📫 Contact
 
-<p align="center">
+📧 **Email:** kashaftariq496@gmail.com
 
-📧 <b>Email</b><br>
-<a href="mailto:kashaftariq496@gmail.com">kashaftariq496@gmail.com</a>
+🌐 **Portfolio:** https://portfolio-delta-woad-42.vercel.app/
 
-<br><br>
-
-💼 <b>LinkedIn</b><br>
-<a href="https://www.linkedin.com/in/kashaf-tariq-948163258/">linkedin.com/in/kashaf-tariq-948163258</a>
-
-<br><br>
-
-🌐 <b>Portfolio</b><br>
-<a href="https://portfolio-delta-woad-42.vercel.app/">portfolio-delta-woad-42.vercel.app</a>
-
-</p>
+💼 **LinkedIn:** https://www.linkedin.com/in/kashaf-tariq-948163258/
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kashaf955&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kashaf955&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
-<h3 align="center">⭐ Thank you for visiting my profile!</h3>
-
-<p align="center">
-<i>Let's build something amazing together 🚀</i>
-</p>
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>

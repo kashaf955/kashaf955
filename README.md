@@ -204,7 +204,7 @@ Full-stack booking / listing web application.
 
 ## 📫 Contact
 
-<p align="center">
+<p align="left">
 📧 <b>Email:</b> <a href="mailto:kashaftariq496@gmail.com">kashaftariq496@gmail.com</a><br/>
 🌐 <b>Portfolio:</b> <a href="https://portfolio-delta-woad-42.vercel.app/">portfolio-delta-woad-42.vercel.app</a><br/>
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kashaf-tariq-948163258/">kashaf-tariq-948163258</a><br/>

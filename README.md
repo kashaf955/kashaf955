@@ -105,6 +105,12 @@ community: Documentation & Reporting Lead @ Dastgahe Karam (since 2024)
 </table>
 
 ---
+## 📅 Contribution Activity
+ 
+<p align="center">
+  <img src="https://ghchart.rshah.org/EF4444/kashaf955" alt="kashaf955's GitHub contribution chart" />
+</p>
+---
 
 # 🔥 GitHub Stats
  

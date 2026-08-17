@@ -206,7 +206,7 @@ Full-stack booking / listing web application.
 
 <p align="left">
 📧 <b>Email:</b> <a href="mailto:kashaftariq496@gmail.com">kashaftariq496@gmail.com</a><br/>
-🌐 <b>Portfolio:</b> <a href="https://kashaftariq.com">portfolio-delta-woad-42.vercel.app</a><br/>
+🌐 <b>Portfolio:</b> <a href="https://kashaftariq.com">Kashaftariq.com</a><br/>
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/kashaf-tariq-948163258/">kashaf-tariq-948163258</a><br/>
 💻 <b>GitHub:</b> <a href="https://github.com/kashaf955">github.com/kashaf955</a>
 </p>

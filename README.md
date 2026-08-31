@@ -39,7 +39,7 @@ community: Documentation & Reporting Lead @ Dastgahe Karam (since 2024)
 <a href="https://www.linkedin.com/in/kashaf-tariq-948163258/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://portfolio-delta-woad-42.vercel.app/" target="_blank">
+<a href="https://kashaftariq.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:kashaftariq496@gmail.com">

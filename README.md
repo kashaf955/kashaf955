@@ -130,7 +130,6 @@ community: Documentation & Reporting Lead @ Dastgahe Karam (since 2024)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashaf955&theme=tokyo-night"/>
 </p>
-
 ---
 
 ## 🌱 Currently Learning

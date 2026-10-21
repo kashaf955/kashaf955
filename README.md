@@ -4,7 +4,7 @@
 
 Building scalable web applications, multi-tenant systems, and AI-powered solutions.
 
-[Portfolio](https://portfolio-delta-woad-42.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kashaf-tariq-948163258/) · [GitHub](https://github.com/kashaf955) · [Email](mailto:kashaftariq496@gmail.com)
+[Portfolio](https://kashaftariq.com) · [LinkedIn](https://www.linkedin.com/in/kashaf-tariq-948163258/) · [GitHub](https://github.com/kashaf955) · [Email](mailto:kashaftariq496@gmail.com)
 
 ---
 

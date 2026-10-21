@@ -1,6 +1,6 @@
 # Kashaf Tariq
 
-**Software Engineer · Full-Stack Developer**
+**Software Engineer**
 
 Building scalable web applications, multi-tenant systems, and AI-powered solutions.
 

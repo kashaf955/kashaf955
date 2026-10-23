@@ -1,4 +1,4 @@
-# Kashaf Tariq
+<h1 align="center">Kashaf Tariq</h1>
 
 <p align="center">
   <strong>Software Engineer</strong>

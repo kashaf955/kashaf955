@@ -40,7 +40,6 @@
   <a href="https://firebase.google.com/"><img src="https://cdn.simpleicons.org/firebase/808080" width="32" height="32" alt="Firebase" /></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/808080" width="32" height="32" alt="Git" /></a>&nbsp;
   <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/808080" width="32" height="32" alt="GitHub" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/808080" width="32" height="32" alt="VS Code" /></a>
 </p>
 
 ### Featured Projects
